@@ -1,0 +1,25 @@
+<title>HTML 공부한 내용!!</title>
+
+<strong>2018.07.22</strong>
+	<ol>
+		<li>기본문법 & 하이퍼텍스트와속성 : h1, h2, h3, a, target, href, title, strong</li>
+		<li>태그의 중첩과 목록 : ol, ul, li</li>
+	</ol>
+
+<strong>2018.07.23</strong>
+	<ol>
+		<li>문서의 구조 : html, head, body</li>
+		<li>DOCTYPE : !DOCTYPE html</li>
+		<li>웹사이트 만들기</li>
+		<li>개발도구 : atom 설치</li>
+		<li>html의 변천사와 통계</li>
+		<li>주요태그 : p, br, img, table</li>
+		<li>form : form, input, textarea, select, option</li>
+		<li>form_select : radio, checkbox</li>
+		<li>button </li>
+		<li>lable : lable</li>
+		<li>method</li>
+		<li>file upload</li>
+		<li>meta : charset, http-equiv</li>
+		<li>의미론적 태그 : header, nav, section, article, footer</li>
+	</ol>
